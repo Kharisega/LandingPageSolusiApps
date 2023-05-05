@@ -1,0 +1,210 @@
+/* computer */
+nav {
+    height: 65px;
+    font-size: 22px;
+    background-color: #027eff;
+}
+
+.text_navbar {
+    padding-right: 20px;
+    padding-left: 10px;
+}
+
+main>div>img {
+    position: absolute;
+    left: 225px;
+    top: 150px;
+    width: 65%;
+}
+
+main>div>h3 {
+    padding-top: 260px;
+}
+
+main>div>h3,
+h4 {
+    text-align: center;
+}
+
+.second_container {
+    margin-top: 110px;
+}
+
+.second_container>a>svg {
+    margin-left: 625px;
+    margin-top: 17px;
+}
+
+#tentang2>div>div>img {
+    margin-top: 85px;
+    margin-left: 95px;
+    width: 70%;
+}
+
+#tentang2>div>div>i>h1 {
+    margin-top: 85px;
+    margin-left: 95px;
+    color: white;
+    font-weight: 700;
+}
+
+.garis_kuning {
+    border-radius: 5px;
+    border-bottom: 10px solid #f0d353;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    width: 220px;
+}
+
+.garis1 {
+    position: absolute;
+    left: 150px;
+    top: 805px;
+}
+
+#tentang2>div>div>p#text {
+    font-size: xx-large;
+    font-weight: 500;
+    color: aliceblue;
+    margin-left: 120px;
+    margin-top: 130px;
+}
+
+#jasa1>.row>.col>.row>p.text,
+p.text1 {
+    font-size: xx-large;
+    font-weight: 500;
+    color: #040174;
+    margin-left: 0px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#jasa1>.row>.col>.row>p.text1 {
+    color: #ACDAF9 !important;
+    font-size: x-large;
+    margin-top: 0;
+}
+
+#jasa1>i>h1 {
+    margin-top: 85px;
+    margin-left: 95px;
+    color: #027eff;
+    font-weight: 700;
+}
+
+.garis2 {
+    position: absolute;
+    left: 150px;
+    margin-top: -20px;
+}
+
+.row>.col>.row>img {
+    width: 40%;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+
+#jasa2>i>h1 {
+    padding-top: 85px;
+    margin-left: 95px;
+    color: white;
+    font-weight: 700;
+}
+
+.thumbnail {
+    width: 55%;
+    margin-left: 85px;
+    margin-top: 125px;
+}
+
+.text_jasa2 {
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+#portofolio>i>h1 {
+    padding-top: 85px;
+    margin-left: 95px;
+    color: #027eff;
+    font-weight: 700;
+}
+
+p.text_porto_title,
+p.text_porto_sub {
+    font-size: x-large;
+    font-weight: 500;
+    color: #040174;
+    margin-left: -30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#portofolio>.row>.col>.row>p.text_porto_sub {
+    color: #2145e2 !important;
+    font-size: large;
+    margin-top: 0;
+    margin-left: -75px;
+    padding-left: 125px;
+}
+
+u {
+    text-decoration-color: #f0d353;
+    text-decoration-thickness: 5px;
+}
+
+.hr {
+    border-radius: 5px;
+    border-bottom: 3px solid #2145e2;
+    padding-top: 26px;
+    margin-top: 75px;
+}
+
+.hr2 {
+    border-radius: 5px;
+    border-bottom: 3px solid #f0d353;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    margin-top: -25px;
+    width: 75%;
+    margin-left: 12.5%;
+}
+
+#pesan>i>h1 {
+    padding-top: 85px;
+    margin-left: 95px;
+    color: #2145e2;
+    font-weight: 700;
+}
+
+.garis3 {
+    position: absolute;
+    left: 565px;
+    margin-top: -15px;
+}
+
+#pesan>center>h6 {
+    margin-top: 35px;
+}
+
+.box_forms {
+    margin-top: 50px;
+    width: 500px;
+}
+.box_forms>div>button {
+    margin-top: 25px;
+}
+footer{
+    margin-top: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+}
+#iconbawah {
+    position: absolute;
+    top: 4000px;
+    left: 1225px;
+}
